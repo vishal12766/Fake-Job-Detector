@@ -101,11 +101,19 @@ Android Application
 ## How ro run the application
 
 -cd git clone https://github.com/vishal12766/Fake-Job-Detector
+
 -code .
+
 -cd fake-job-detector
+
 -python -m venv venv
+
 -cd source venv/Scripts/activate  /  .\venv\Scripts\activate.ps1
+
 -pip install -r requirements.txt
+
 -streamlit run app.py
+
 -Enter
+
 
