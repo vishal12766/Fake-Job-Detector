@@ -102,9 +102,9 @@ Android Application
 
 -cd git clone https://github.com/vishal12766/Fake-Job-Detector
 
--code .
-
 -cd fake-job-detector
+
+-code .
 
 -python -m venv venv
 
